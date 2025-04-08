@@ -37,4 +37,4 @@ The MongoDB connection string is hardcoded in the source code. Update it in `mai
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Vishwajeet
